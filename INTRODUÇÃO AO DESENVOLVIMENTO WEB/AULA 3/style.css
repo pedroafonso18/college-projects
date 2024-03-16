@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(126, 255, 212);
+    color: rgb(36, 63, 63);
+    font-family: 'sans-serif';
+}
+
+p{
+    font-size: 25px;
+}
+
+h1{
+    color:salmon;
+    font-size: 50px;
+    display: center;
+    display: flex;
+}
+
+.titulo{
+    color: palevioletred;
+}

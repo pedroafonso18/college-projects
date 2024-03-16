@@ -1,0 +1,56 @@
+.titulo{
+    font-style: italic;
+    font-size: 35px;
+    font-family: sans-serif;
+}
+
+#contato{
+    padding-top: 2%;
+}
+
+ul{
+    font-size: 25px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+a{
+    color: black;
+}
+
+body{
+    background-color: lightpink;
+}
+
+#perfil{
+    
+    display: inline-block;
+    width: 20%;
+    height: 20%;
+    border: 2px solid black;
+    border-radius: 20%;
+    margin-left: 37%;
+    
+}
+
+.text{
+    font-size: 25px
+}
+
+.formacao{
+    font-size: 20px;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+#logo{
+    width: 5%;
+    height: 5%;
+}
+
+#linkedin{
+    width: 15%;
+    height: 15%;
+}
