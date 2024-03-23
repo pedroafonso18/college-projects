@@ -1,0 +1,97 @@
+*{
+    margin: 0 auto;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    width: 70%;
+    border: 3px solid darkslategray;
+}
+.blackbox{
+    background-color: black;
+    display:inline-flex;
+    width: 50%;
+    height: 900px;
+    color: white;
+    padding: 0%;
+}
+
+#aboutme{
+    display: block;
+    width: 75%;
+    margin-top:10px;
+    font-style: italic;
+}
+
+.profile{
+    border-radius: 50%;
+    border: 5px solid rgb(32, 201, 32);
+    display: inline-block;
+    margin-top: 20%;
+    margin-left: 20%;
+}
+
+.name{
+    margin-left: 25%;
+    margin-top: 10px;
+}
+
+.dev{
+    color: rgb(32, 201, 32);
+    margin-left: 33%;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+.ed{
+    color: rgb(32, 201, 32);
+    margin-left: 37%;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+.educacao{
+    font-style: italic;
+    width: 70%;
+    margin-top:10px;
+}
+
+.git{
+    width: 50px;
+    height: 50px;
+    margin-top:25px;
+    margin-left: 20px;
+}
+
+.site{
+    width: 50px;
+    height:50px;
+    margin-top: 25px;
+}
+
+.container{
+    display: flex;
+}
+
+.experiencia{
+    float: right;
+    margin-top: 10%;
+    font-size: larger;
+    font-style: italic;
+    margin-right: 9%;
+}
+
+.lista{
+    margin-left: -30%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+hr{
+    margin-top: 10%;
+}
+
+.mt{
+    margin-top: 25px;
+}
